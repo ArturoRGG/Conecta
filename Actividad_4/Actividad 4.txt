@@ -1,0 +1,8 @@
+Soy un atributo privado de la clase ClaseDelPaqueteAcceso:  1
+Soy un atributo de paquete de la clase ClaseDelPaqueteAcceso: 2
+Soy un atributo protegido de la clase ClaseDelPaqueteAcceso: 3
+Soy un atributo público de la clase ClaseDelPaqueteAcceso: 4
+Soy un método privado de la clase ClaseDelPaqueteAcceso.
+Soy un método de paquete de la clase ClaseDelPaqueteAcceso.
+Soy un método protegido de la clase ClaseDelPaqueteAcceso.
+Soy un método publico de la clase ClaseDelPaqueteAcceso. 
