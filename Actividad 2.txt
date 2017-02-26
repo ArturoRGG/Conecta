@@ -1,0 +1,5 @@
+La diferencia entre los dos programas es el metodo de ordenamiento que utilizan.
+"Actividad 2" y "Actividad 2.1" Realizan de igual manera el proceso final que conlleva
+a la sustraccion mayor.
+Ya que ambas  ordenan la matriz primero y despues toma el ultimo elemento y el primero 
+para dar como resultado la mayor diferencia.
